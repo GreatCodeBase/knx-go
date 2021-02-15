@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/vapourismo/knx-go.svg?branch=master)](https://travis-ci.org/vapourismo/knx-go)
 [![GoDoc](https://godoc.org/github.com/vapourismo/knx-go?status.svg)](https://godoc.org/github.com/vapourismo/knx-go)
 
+# Prepare the Driver level for KNX
 # knx-go
 
 This repository contains a collection of Go packages that provide the means to communicate with KNX
